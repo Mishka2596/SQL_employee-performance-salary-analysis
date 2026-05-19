@@ -100,28 +100,48 @@ Used a CASE statement to categorise employees as:
 
 ---
 
-## Potential Power BI Dashboard Visuals
+## Power BI Dashboard
 
-- KPI Cards
-  - Total Employees
-  - Average Salary
-  - Average Performance Score
+The SQL outputs from this project were used to design an HR analytics dashboard in Power BI.
 
-- Bar Charts
-  - Average Salary by Department
-  - Employee Count by Department
-  - Total Salary Cost by Department
+The dashboard focuses on:
+- workforce performance analysis
+- salary insights
+- departmental comparisons
+- employee distribution
+- business decision support
 
-- Tables
-  - High Performing Employees
-  - Employees Above Average Salary
+### Dashboard Features
 
-- Donut/Pie Charts
-  - Performance Categories
+#### Executive KPI Cards
+- Total Employees
+- Average Salary
+- Average Performance Score
+- Highest Paid Department
 
-- Ranking Visuals
-  - Top Earning Employees
-  - Highest Performing Departments
+#### Salary Analysis
+- Average Salary by Department
+- Total Salary Cost by Department
+- Top Earning Employees
+
+#### Performance Analysis
+- High Performing Employees
+- Average Performance by Department
+- Employee Performance Categories
+
+#### Workforce Insights
+- Employee Count by Department
+- Department Comparison Visuals
+- Performance Distribution
+
+### Dashboard Purpose
+
+The dashboard was designed to help management:
+- identify high-performing departments
+- monitor salary distribution
+- analyse workforce performance trends
+- support HR decision-making
+- improve workforce reporting visibility
 
 ---
 
