@@ -83,12 +83,3 @@ The goal of the project is to demonstrate SQL querying, data analysis, and repor
 | Aggregate Functions | AVG(), COUNT(), SUM() |
 
 ---
-
-## Dashboard Suggestions
-
-The SQL outputs can be visualised in Power BI using:
-- KPI cards
-- Salary trend charts
-- Department comparisons
-- Performance dashboards
-- Employee distribution charts
