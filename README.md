@@ -111,34 +111,11 @@ The dashboard focuses on:
 - employee distribution
 - business decision support
 
-### Dashboard Features
-
-#### Executive KPI Cards
-- Total Employees
-- Average Salary
-- Average Performance Score
-- Highest Paid Department
-
-#### Salary Analysis
-- Average Salary by Department
-- Total Salary Cost by Department
-- Top Earning Employees
-
-#### Performance Analysis
-- High Performing Employees
-- Average Performance by Department
-- Employee Performance Categories
-
-#### Workforce Insights
-- Employee Count by Department
-- Department Comparison Visuals
-- Performance Distribution
+<img width="635" height="336" alt="image" src="https://github.com/user-attachments/assets/2f83568c-18c6-4fb3-a71f-70ed1d2c286f" />
 
 ### Dashboard Purpose
 
 The dashboard was designed to help management:
-- identify high-performing departments
-- monitor salary distribution
 - analyse workforce performance trends
 - support HR decision-making
 - improve workforce reporting visibility
